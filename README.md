@@ -1,6 +1,6 @@
 # SAT Vocab Game
 
-## REFER
+## REFERENCES
 
 - [zty.pe](https://zty.pe/)
 - [Box2D](https://github.com/erincatto/Box2D)
