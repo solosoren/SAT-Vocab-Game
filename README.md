@@ -5,7 +5,7 @@ SAT Vocab Game is a speed typing educational game designed to help learn SAT voc
 
 There are two game modes: the default mode, and the SAT prep. The default mode is a general list of words that grow in length each round. The SAT prep mode is a list of vocabulary words used in the SAT. 
 
-- [App Preview](https://youtu.be/IkJ4Xtj63wU)
+[App Preview](https://youtu.be/IkJ4Xtj63wU)
 
 ## My Contributions
 Most of my work was on the Backend. This included the GameObjects and all of its Subclasses, ObjectController, and LoadWords.
