@@ -10,7 +10,7 @@ There are two game modes: the default mode, and the SAT prep. The default mode i
 ## My Contributions
 Most of my work was on the Backend. This included the GameObjects and all of its Subclasses, ObjectController, and LoadWords.
 
-#### GameObjects and subclasses
+#### GameObjects and Subclasses
 This is essentially the Model for our app. We created a GameObjects Superclass so we could pass a Vector of GameObjects’ Pointers to the Frontend. This allows the Backend to do any object manipulation and adding/removal of the objects from the Vector. The Frontend then only had to loop through the Vector and display each object. 
 
 #### ObjectController
