@@ -10,13 +10,13 @@ There are two game modes: the default mode, and the SAT prep. The default mode i
 ## My Contributions
 Most of my work was on the Backend. This included the GameObjects and all of its Subclasses, ObjectController, and LoadWords.
 
-### GameObjects and subclasses
+#### GameObjects and subclasses
 This is essentially the Model for our app. We created a GameObjects Superclass so we could pass a Vector of GameObjects’ Pointers to the Frontend. This allows the Backend to do any object manipulation and adding/removal of the objects from the Vector. The Frontend then only had to loop through the Vector and display each object. 
 
-### ObjectController
+#### ObjectController
 This class manipulates the objects and contains the Box2D code as well as the game logic. I did most of the object manipulation and game logic.
 
-### LoadWords
+#### LoadWords
 LoadWords is a static class. It was initially used to sort the list of Default Game Mode Words in a .txt file. These words are imported at the beginning of every game. At the beginning of each round, it creates a vector of words to be used. Then every time a word is used it returns the next word in the vector.
 
 ## References
