@@ -19,6 +19,9 @@ This class manipulates the objects and contains the Box2D code as well as the ga
 #### LoadWords
 LoadWords is a static class. It was initially used to sort the list of Default Game Mode Words in a .txt file. These words are imported at the beginning of every game. At the beginning of each round, it creates a vector of words to be used. Then every time a word is used it returns the next word in the vector.
 
+## Photos
+![Shooting Enemy](https://github.com/solosoren/SAT-Vocab-Game/Shooting Enemy.png)
+
 ## References
 
 - [zty.pe](https://zty.pe/)
